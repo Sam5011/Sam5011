@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma)
 
 ### 🤝 Connect with me
-<a href="https://www.linkedin.com/in/thanhvu0895/"><img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Thanh Vu | LinkedIn" width="21px"/></a>: [https://www.linkedin.com/in/thanhvu0895/](https://www.linkedin.com/in/thanhvu0895/)
+<a href="https://www.linkedin.com/in/sonnguyen5011/"><img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Son Nguyen | LinkedIn" width="21px"/></a>: [https://www.linkedin.com/in/sonnguyen5011/](https://www.linkedin.com/in/sonnguyen5011/)
