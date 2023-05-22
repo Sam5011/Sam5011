@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Sam (Son) Nguyen
-
+I'm a IT student just graduated from university
 <!--
 **Sam5011/Sam5011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
