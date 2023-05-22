@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ![MySQL](https://img.shields.io/badge/DB-mySQL-%2300f.svg?style=flat&logo=mysql) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle)
-![Elastic_Search](https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch)
 
 
 ### 🤝 Connect with me
