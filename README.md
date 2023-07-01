@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Sam (Son) Nguyen
-🔭 I'm a IT student just graduated from university, I have experience with .Net framework, CLoud hosted SaaS and I'm a big fan of Frontend development.
+🔭 I’m a Sorfware Engineer with an interest in becoming a skilled professional software engineer, I have experience with .Net framework, CLoud hosted SaaS and I'm a big fan of Frontend development.
 <!--
 **Sam5011/Sam5011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
